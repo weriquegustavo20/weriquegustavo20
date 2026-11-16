@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Werique! 👋
 
-<!--
-**weriquegustavo20/weriquegustavo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do curso de **Programador Full-Stack** (Turma QUA.2026.030) no SENAI e estou dando meus primeiros passos no mundo da tecnologia. 
 
-Here are some ideas to get you started:
+## 🎯 Sobre mim
+- 🎓 Estudando atualmente: **Git e GitHub** (módulo de versionamento de código).
+- 💡 Tenho muito interesse em **Python** e estou mergulhando nos conceitos iniciais para conhecer bem a área de TI.
+- 🚀 Meu grande objetivo a longo prazo: aprender a base com excelência para conseguir um **emprego remoto internacional** (ganhando em dólar ou euro!).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Conhecimentos e Interesses
+- **Tecnologias:** Iniciando com Git e GitHub, de olho no ecossistema Full-Stack e Python.
+- **Foco atual:** Me adaptar às lógicas de programação e construir uma base sólida no curso do SENAI.
+
+## 📈 Projetos
+- 🚧 Atualmente focado em: Atividades práticas do curso de Programador Full-Stack.
+- 🌱 O que quero realizar em breve: **Montar o meu primeiro site** do zero para colocar os conhecimentos em prática.
+
+## 📫 Como me encontrar
+- **E-mail:** [weriquegustavovieira18@gmail.com](mailto:weriquegustavovieira18@gmail.com)
